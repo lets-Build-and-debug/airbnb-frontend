@@ -1,6 +1,9 @@
 ## all custom hooks exits here 
 
-examples:-
+hypothetical examples includes:-
+
 /hooks 
+
  -/useCookies
+ 
  -/usePagination
